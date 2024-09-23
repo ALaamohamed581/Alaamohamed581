@@ -35,7 +35,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 ![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
-![React](https://img.shields.io/badge/-react-05122A?style=flat&logo=nestjs)&nbsp;
+![NestJs](https://img.shields.io/badge/-react-05122A?style=flat&logo=nestjs)&nbsp;
+![express](https://img.shields.io/badge/-react-05122A?style=flat&logo=express)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
